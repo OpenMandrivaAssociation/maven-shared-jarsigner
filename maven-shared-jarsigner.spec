@@ -1,7 +1,7 @@
 %{?_javapackages_macros:%_javapackages_macros}
 Name:             maven-shared-jarsigner
 Version:          1.3.2
-Release:          2.1
+Release:          2.2
 Summary:          Component to assist in signing Java archives
 Group:            Development/Java
 License:          ASL 2.0
