@@ -5,7 +5,7 @@ Release:          2.3
 Summary:          Component to assist in signing Java archives
 Group:            Development/Java
 License:          ASL 2.0
-URL:              http://maven.apache.org/shared/maven-jarsigner/
+URL:              https://maven.apache.org/shared/maven-jarsigner/
 BuildArch:        noarch
 
 Source0:          http://repo1.maven.org/maven2/org/apache/maven/shared/maven-jarsigner/%{version}/maven-jarsigner-%{version}-source-release.zip
